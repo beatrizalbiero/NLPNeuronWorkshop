@@ -1,1 +1,5 @@
-Esse repositório contém o notebook utilizado no tutorial do Workshop da Neuron.
+This repository contains the notebook used in the Neuron Workshop's tutorial.
+
+Languages available: 
+- Portuguese
+- English
