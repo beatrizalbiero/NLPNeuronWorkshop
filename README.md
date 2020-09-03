@@ -1,4 +1,4 @@
-This repository contains the notebook used in the Neuron Workshop's tutorial.
+This repository contains the notebook used at Neuron's Workshop (2020).
 
 Languages available: 
 - Portuguese
